@@ -1,4 +1,5 @@
 # Linux-commands
+Copyleft and refer link: https://github.com/bobbyiliev
 
 # Content <!-- omit in toc -->
 
