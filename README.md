@@ -1,5 +1,9 @@
 # Linux-commands
 
+# Content <!-- omit in toc -->
+
+- [VI](#vi)
+
 ## VI
 To leave editing mode press `ESC`.
 
