@@ -55,3 +55,4 @@ Navigate as usual with `arrow keys`, `home`, `end`, `pg up`, `pg dn`.
 | `:q!`       | close without saving         |
 | `:!command` | run bash command             |
 | `:r foo`    | read file foo into this file |
+| :set number   | Absolute Line Numbers |
