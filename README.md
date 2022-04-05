@@ -1,5 +1,5 @@
 # Linux-commands
-Copyleft and refer link: https://github.com/bobbyiliev
+Refer link: https://github.com/bobbyiliev Copyright by @bobbyiliev
 
 # Content <!-- omit in toc -->
 
